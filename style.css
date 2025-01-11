@@ -41,8 +41,44 @@
 .bannerOne{
     width: 1280px;
     height: 560px;
+    padding: 60px 70px;
     border-radius: 24px;
     background-color: #C6E4D6;
-    
+    display: flex;
+    justify-content:space-between;
+    align-items: center;  
 
 }
+
+.bannerOne p{
+    font-size: 24px;
+    font-weight: 500;
+    color: rgba(14, 14, 14, 0.5);
+    
+}
+
+.bannerOne h2{
+    font-size: 56px;
+    font-weight: bold;
+    color: #0E0E0E;
+    margin: 16px 0 24px;
+    
+}
+
+.bannerOne button{
+    font-size: 18px;
+    font-weight: 600;
+    padding: 17px 34px;
+    background-color: #006A50;
+    color: #ffffff;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+
+}
+
+.bannerImage img{
+    width: 474.03px;
+    height: 400px;
+}
+
