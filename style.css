@@ -46,7 +46,8 @@
     background-color: #C6E4D6;
     display: flex;
     justify-content:space-between;
-    align-items: center;  
+    align-items: center;
+    margin-bottom: 80px;  
 
 }
 
@@ -83,3 +84,49 @@
     height: 400px;
 }
 
+.pillarsOne{
+    margin-bottom: 80px;
+}
+
+.pillarsOne h2{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.pillarsTwo{
+    margin: 32px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}  
+
+.pillarsThree{
+
+    width: 302px;
+    height: 244px;
+    border-radius: 16px;
+    padding: 24px;
+    background-color: #ffffff;
+    border: 1px solid #dedede;
+}
+
+
+.pillarsThree img{
+    width: 64px;
+    height: 64px;
+
+}
+
+.pillarsThree h3{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 20px 0;
+
+}
+
+.pillarsThree p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height:1.5;
+    color: #565656;
+}
