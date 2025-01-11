@@ -647,3 +647,37 @@
     margin-right: -12px;
     
 }
+
+.footerSection{
+    width: 100vw;
+    height: 226px;
+    padding: 50px 160px;
+    background-color: #ffffff;
+    
+}
+
+.footerSection p{
+    text-align: center;
+    color: #0E0E0E;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.footerSection hr{
+    width: 1122px;
+    border: 1px solid #dedede;
+    margin: 32px auto;
+
+}
+
+.logoContainer{
+    margin: 32px auto;
+    text-align: center;
+}
+
+.logoContainer img{
+    width: 24px;
+    height: 24px;
+    background-color: #ffffff;
+    margin: 0 10px;
+}
