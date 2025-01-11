@@ -130,3 +130,145 @@
     line-height:1.5;
     color: #565656;
 }
+
+
+.visionOne h2{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.visionOne p{
+
+    margin: 24px 0 32px 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height:1.5;
+    color: #565656;
+
+}
+
+.visionTwo{
+    margin: 32px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}  
+
+.visionThree{
+
+    width: 410.67px;
+    height: 325px;
+    border-radius: 16px;
+    padding: 32px;
+    
+    
+}
+
+.firstDiv{
+    background-color: #d5e1f5;
+    border: 1px solid #5490F5;
+
+}
+
+.secondDiv{
+    background-color: #C6E4D6;
+    border: 1px solid #09A15C;
+
+}
+
+.thirdDiv{
+    background-color: #F7EBCF;
+    border: 1px solid #FFC239;
+
+}
+
+
+.visionOne{
+    margin-bottom: 80px;
+}
+
+.visionThree img{
+    width: 64px;
+    height: 64px;
+
+}
+
+.visionThree h3{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 20px 0;
+
+}
+
+.visionThree p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height:1.5;
+    color: #565656;
+}
+
+.visionThree button{
+    border-radius: 8px;
+    padding: 11px 20px;
+    color: #ffffff;
+    border: none;
+    outline: none;
+}
+
+
+.firstDiv button{
+    background-color: #5490F5;
+
+}
+
+.secondDiv button{
+    background-color: #09A15C;
+
+}
+
+.thirdDiv button{
+    background-color: #FFC239;
+
+}
+
+
+.about{
+    position: relative;
+    width: 1280px;
+    height: 256px;
+    padding: 40px 24px;
+    border-radius: 16px;
+    border: 1px solid #dedede;
+    background-color: #ffffff;
+
+}
+
+.about p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height:1.6;
+    color: #565656;
+
+}
+
+.about h3{
+    font-size: 20px;
+    font-weight: 600;
+    color: #3e3e3e;
+
+}
+
+.about h6{
+    font-size: 16px;
+    font-weight: 400;
+    line-height:1.6;
+    color: #565656;
+}
+
+.about img{
+    width: 64px;
+    height: 64px;
+    position: absolute;
+    left: 25px;
+    top: 40px;
+}
